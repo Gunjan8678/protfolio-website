@@ -61,7 +61,6 @@ hr {
   padding: 1rem;
   border-bottom-left-radius: 1rem;
 }
-
 .navigation .nav-pills {
   text-align: right;
 }
@@ -72,7 +71,6 @@ hr {
 }
 
 .navigation .link {
-  float: right;
   color: white;
 }
 
